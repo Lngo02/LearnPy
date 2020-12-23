@@ -2,7 +2,7 @@
 
 ## Table of contents:
 
-[Introduction to Python](#Theory:-Introduction-to-Python)
+[↑ Introduction to Python](#Theory:-Introduction-to-Python)
 1. [What is Python](##What-is-Python)
 2. [Python in data science](##Python-in-data-science)
 3. [Short history of Python](##Short-history-of-Python)
